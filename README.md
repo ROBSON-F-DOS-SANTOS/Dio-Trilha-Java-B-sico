@@ -19,13 +19,16 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Tipos primitivos ( Primitive Types ).
 
-No Java existem algumas palavras reservadas para a representação dos tipos de dados básicos que precisam ser manipulados para a construção de programas. 
-=======
+No Java existem algumas palavras reservadas para a representação dos tipos de dados básicos que precisam ser manipulados para a construção de programas. Esses tipos de dados são conhecidos como tipos primitivos ( Primitive Types ).
+
+Eles são os seguintes.
+byte, short, int, long, float, double, char e boolean.
+
 # Dio-Trilha-Java-B-sico
 Início java básico.
 Tipos de variáveis.
-
-🔢 **Inteiros (sem casas decimais)**
+Os oito tipos primitivos em Java.
+🔢 **Inteiros (sem casas decimais).**
 | Tipo  | Tamanho  | Valor Mínimo       | Valor Máximo       |
 |-------|----------|--------------------|--------------------|
 | byte  | 8 bits   | -128               | 127                |
@@ -33,21 +36,13 @@ Tipos de variáveis.
 | int   | 32 bits  | -2³¹ (-2.147.483.648) | 2³¹-1 (2.147.483.647) |
 | long  | 64 bits  | -2⁶³               | 2⁶³-1              |
 
-🔣 **Decimais (com casas decimais)
-|  Tipo  |  Tamanho  |  Precisão                 |
-|  float |   32 bits |  ~ 6 - 7 Dígitos decimais |
-| double |  64 bits  |  ~ 15    Dígitos decimais | 
-
-🔡 **Outros Tipos Primitivos
-| Tipo    | Descrição                             | Exemplo       |
-=======
-🔣 **Decimais (com casas decimais)**
+🔣 **Decimais (com casas decimais).**
 |  Tipo  |  Tamanho  |  Precisão                 |
 |--------|-----------|---------------------------|
 |  float |   32 bits |  ~ 6 - 7 Dígitos decimais |
 | double |  64 bits  |  ~ 15    Dígitos decimais | 
 
-🔡 **Outros Tipos Primitivos**
+🔡 **Outros Tipos Primitivos.**
 | Tipo    | Descrição                              | Exemplo       |
 |---------|----------------------------------------|---------------|
 | char    | Um único caractere Unicode (16 bits)   | 'A', '1', '#' |
