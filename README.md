@@ -24,7 +24,6 @@ No Java existem algumas palavras reservadas para a representação dos tipos de 
 # Dio-Trilha-Java-B-sico
 Início java básico.
 Tipos de variáveis.
->>>>>>> ef5b9943dfc045f2bf27c06f0dabcbfc362e2056
 
 🔢 **Inteiros (sem casas decimais)**
 | Tipo  | Tamanho  | Valor Mínimo       | Valor Máximo       |
@@ -34,7 +33,6 @@ Tipos de variáveis.
 | int   | 32 bits  | -2³¹ (-2.147.483.648) | 2³¹-1 (2.147.483.647) |
 | long  | 64 bits  | -2⁶³               | 2⁶³-1              |
 
-<<<<<<< HEAD
 🔣 **Decimais (com casas decimais)
 |  Tipo  |  Tamanho  |  Precisão                 |
 |  float |   32 bits |  ~ 6 - 7 Dígitos decimais |
@@ -51,7 +49,6 @@ Tipos de variáveis.
 
 🔡 **Outros Tipos Primitivos**
 | Tipo    | Descrição                              | Exemplo       |
->>>>>>> ef5b9943dfc045f2bf27c06f0dabcbfc362e2056
 |---------|----------------------------------------|---------------|
 | char    | Um único caractere Unicode (16 bits)   | 'A', '1', '#' |
 | boolean | Representa `true` ou `false` (lógico)  | true, false   |
